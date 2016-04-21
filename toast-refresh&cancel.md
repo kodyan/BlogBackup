@@ -1,3 +1,4 @@
+layout: post
 title: Toast及时更新显示文字及控制提示消失
 date: 2015/3/16 20:28:38 
 categories: 
