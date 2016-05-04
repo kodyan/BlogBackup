@@ -7,7 +7,7 @@ Android官方文档中[Supported Media Formats](http://developer.android.com/gui
 
 ![android-supported-image](http://7xoze0.com1.z0.glb.clouddn.com/android-supported-image.png)
 
-本文对这几种图片格式做个学习总结。
+本文对这几种图片格式做个学习总结
 
 <!--more-->
 
