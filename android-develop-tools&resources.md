@@ -7,7 +7,7 @@ tags: Android
 
 <!--more-->
 
-## 一款强大的模拟器 ##
+## 一款强大的模 拟器 ##
 - [Genymotion](https://www.genymotion.com/)
 
 ## Gradle ##
